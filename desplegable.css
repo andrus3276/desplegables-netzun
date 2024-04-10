@@ -1,0 +1,20 @@
+body{
+    background-color: beige;
+}
+.navbar{
+    width:450px ;
+    height: 45px;
+    display: flex;
+    margin-left: 20%;
+    margin-top:20% ;
+    align-items: center;
+    gap: 35px;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size:1rem ;
+    color: bisque;
+    background-color: blue;
+    border-radius: 10px;
+    
+}
